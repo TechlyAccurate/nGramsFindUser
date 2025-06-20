@@ -33,8 +33,7 @@ BEGIN
 	This is done by taking the combined first and last name normalized nGram scores, difference scores and reverse difference scores
 	to generate a nameScore.
 
-	A preliminary weightedScore is then generated using the provisionConfiguration.xml provided weights for 
-	nameScore, userValue1 and userValue2.
+	A preliminary weightedScore is then generated using the provided weights for nameScore, userValue1 and userValue2.
 
 	The preliminary weightedScore is used to generate a list of the top 100 results.
 
