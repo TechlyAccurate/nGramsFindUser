@@ -8,7 +8,7 @@ EXEC [dbo].[findUser] varchar(64) givenName, varchar(64) sn, int excludeActive, 
 
 # RETURNS
 ```
-**TABLE** INT userId, FLOAT NGramScore, FLOAT DifferenceScore, FLOAT ReverseDifferenceScore, INT LevenshteinScore, INT HasVar1, INT HasVar2, FLOAT nameScore, FLOAT weightScore, FLOAT standardizedScore
+TABLE INT userId, FLOAT NGramScore, FLOAT DifferenceScore, FLOAT ReverseDifferenceScore, INT LevenshteinScore, INT HasVar1, INT HasVar2, FLOAT nameScore, FLOAT weightScore, FLOAT standardizedScore
 ```
 
 # SYNOPSIS
