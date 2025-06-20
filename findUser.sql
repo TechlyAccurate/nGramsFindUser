@@ -7,8 +7,8 @@ SET QUOTED_IDENTIFIER ON
 GO
 
 ALTER PROCEDURE [dbo].[findUser]
-    @givenName varchar(64),
-    @sn varchar(64),
+	@givenName varchar(64),
+	@sn varchar(64),
 	@excludeActive int = 0,
 	@nameweight FLOAT = 1,
 	@var1 varchar(200) = null,
