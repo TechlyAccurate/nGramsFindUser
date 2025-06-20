@@ -1,5 +1,5 @@
 # NAME
-**findUser**
+[**findUser**](https://github.com/TechlyAccurate/nGramsFindUser/blob/main/findUser.sql)
 
 # SYNTAX
 ```
