@@ -106,7 +106,7 @@ score percentage.
   - **Value**: the value to match against the stored var2 (requires modifying to match your implimentation; see makeNGrams and UserValue1 / UserValue2)
   - **Default**: NULL
 
-- **var1weight**
+- **var2weight**
   - **Type**: FLOAT
   - **Value**: the weight to give to a match of var2 when combining with the final nameScore and var1 matching weights.
   - **Default**: 0
