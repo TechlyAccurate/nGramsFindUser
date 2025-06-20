@@ -1,5 +1,5 @@
 # NAME
-**makeNGrams**
+[**makeNGrams**](https://github.com/TechlyAccurate/nGramsFindUser/blob/main/makeNGrams.sql)
 
 # SYNTAX
 ```
